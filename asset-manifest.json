@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProyectoUnal/static/css/main.75edb9e7.chunk.css",
+    "main.js": "/ProyectoUnal/static/js/main.8bf9decc.chunk.js",
+    "main.js.map": "/ProyectoUnal/static/js/main.8bf9decc.chunk.js.map",
+    "runtime-main.js": "/ProyectoUnal/static/js/runtime-main.ba85ec2f.js",
+    "runtime-main.js.map": "/ProyectoUnal/static/js/runtime-main.ba85ec2f.js.map",
+    "static/js/2.710a09fa.chunk.js": "/ProyectoUnal/static/js/2.710a09fa.chunk.js",
+    "static/js/2.710a09fa.chunk.js.map": "/ProyectoUnal/static/js/2.710a09fa.chunk.js.map",
+    "static/js/3.db1d8517.chunk.js": "/ProyectoUnal/static/js/3.db1d8517.chunk.js",
+    "static/js/3.db1d8517.chunk.js.map": "/ProyectoUnal/static/js/3.db1d8517.chunk.js.map",
+    "index.html": "/ProyectoUnal/index.html",
+    "static/css/main.75edb9e7.chunk.css.map": "/ProyectoUnal/static/css/main.75edb9e7.chunk.css.map",
+    "static/js/2.710a09fa.chunk.js.LICENSE.txt": "/ProyectoUnal/static/js/2.710a09fa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ProyectoUnal/static/media/slider8.da3fd7f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba85ec2f.js",
+    "static/js/2.710a09fa.chunk.js",
+    "static/css/main.75edb9e7.chunk.css",
+    "static/js/main.8bf9decc.chunk.js"
+  ]
+}
