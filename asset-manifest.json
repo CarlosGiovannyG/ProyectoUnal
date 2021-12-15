@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ProyectoUnal/static/css/main.75edb9e7.chunk.css",
-    "main.js": "/ProyectoUnal/static/js/main.8bf9decc.chunk.js",
-    "main.js.map": "/ProyectoUnal/static/js/main.8bf9decc.chunk.js.map",
+    "main.js": "/ProyectoUnal/static/js/main.2a87519a.chunk.js",
+    "main.js.map": "/ProyectoUnal/static/js/main.2a87519a.chunk.js.map",
     "runtime-main.js": "/ProyectoUnal/static/js/runtime-main.ba85ec2f.js",
     "runtime-main.js.map": "/ProyectoUnal/static/js/runtime-main.ba85ec2f.js.map",
     "static/js/2.710a09fa.chunk.js": "/ProyectoUnal/static/js/2.710a09fa.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ba85ec2f.js",
     "static/js/2.710a09fa.chunk.js",
     "static/css/main.75edb9e7.chunk.css",
-    "static/js/main.8bf9decc.chunk.js"
+    "static/js/main.2a87519a.chunk.js"
   ]
 }
